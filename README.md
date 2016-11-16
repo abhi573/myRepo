@@ -1,2 +1,2 @@
 # myRepo
-my test repo =======first MOD.
+my test repo =======first MOD. + second MOD
